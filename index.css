@@ -5,7 +5,7 @@ body{
 .box{
     width: 650px;
     height: 951px;
-    background-image: url("index.jpg");
+    background-image: url("https://media.istockphoto.com/id/499753566/ko/%EB%B2%A1%ED%84%B0/%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%BC-%EC%88%98%EC%A7%81%EB%B6%84%EC%82%AC-football-player-%EC%B6%95%EA%B5%AC%EC%9E%A5-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.jpg?s=170667a&w=0&k=20&c=OkxEgk_zevcbw8z5khWOBa33-itF0lhQ1t5wS62rx94=.jpg");
     background-repeat: no-repeat;
     background-size: contain;
 }
